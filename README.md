@@ -1,6 +1,6 @@
 # toolConfigs
 
-Public configurations for common tools to reduce time and effort of setups.
+Public configurations for common tools to reduce time and effort during setups.
 
 # Tools
 
